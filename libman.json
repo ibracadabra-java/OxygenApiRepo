@@ -3,10 +3,6 @@
   "defaultProvider": "cdnjs",
   "libraries": [
     {
-      "library": "twitter-bootstrap@4.6.0",
-      "destination": "wwwroot/lib/twitter-bootstrap/"
-    },
-    {
       "library": "platform@1.3.6",
       "destination": "wwwroot/platform/"
     },
@@ -18,5 +14,10 @@
       "library": "admin-lte@2.4.15",
       "destination": "wwwroot/admin-lte/"
     }
-  ]
+  ,
+{
+  "library": "twitter-bootstrap@5.1.3",
+  "destination": "wwwroot/twitter-bootstrap/"
+}
+]
 }

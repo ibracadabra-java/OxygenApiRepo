@@ -1,0 +1,1452 @@
+.mediaViewInfo {
+	--web-view-name: Pago - Codigo descuento - Insertado;
+	--web-view-id: Pago_-_Codigo_descuento_-_Insertado;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Pago_-_Codigo_descuento_-_Insertado;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Pago_-_Codigo_descuento_-_Insertado {
+	position: absolute;
+	width: 414px;
+	height: 736px;
+	background-color: rgba(0,0,0,1);
+	overflow: hidden;
+	--web-view-name: Pago - Codigo descuento - Insertado;
+	--web-view-id: Pago_-_Codigo_descuento_-_Insertado;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#fondo_base_tw {
+	position: absolute;
+	width: 414px;
+	height: 736px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#fondo11_tx {
+	position: absolute;
+	width: 414px;
+	height: 736px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Enmascarar_grupo_26_ty {
+	position: absolute;
+	width: 414px;
+	height: 736px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#teclado_tz {
+	position: absolute;
+	width: 414px;
+	height: 238px;
+	left: 0px;
+	top: 498px;
+	overflow: visible;
+}
+#Fills__Gray_t {
+	position: absolute;
+	width: 414px;
+	height: 238px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Background_t {
+	position: absolute;
+	width: 414px;
+	height: 238px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Background_ua {
+	filter: blur(10.192px);
+	fill: rgba(0,0,0,0.6);
+}
+.Background_ua {
+	position: absolute;
+	overflow: visible;
+	width: 414px;
+	height: 238px;
+	left: 0px;
+	top: 0px;
+}
+#Background_ub {
+	fill: rgba(0,0,0,0.102);
+}
+.Background_ub {
+	position: absolute;
+	overflow: visible;
+	width: 414px;
+	height: 238px;
+	left: 0px;
+	top: 0px;
+}
+#Bottom_Row {
+	position: absolute;
+	width: 408.48px;
+	height: 46.368px;
+	left: 2.208px;
+	top: 186.112px;
+	overflow: visible;
+}
+#Label {
+	position: absolute;
+	width: 96.862px;
+	height: 46.368px;
+	left: 311.618px;
+	top: 0px;
+	overflow: visible;
+}
+#Key {
+	fill: rgba(115,115,115,1);
+}
+.Key {
+	filter: drop-shadow(0px 1px 0px rgba(0, 0, 0, 0.349));
+	position: absolute;
+	overflow: visible;
+	width: 96.861px;
+	height: 47.368px;
+	left: 0px;
+	top: 0px;
+}
+#Label_t {
+	left: 26.074px;
+	top: 11.592px;
+	position: absolute;
+	overflow: visible;
+	width: 45.16px;
+	height: 20.97599983215332px;
+	text-align: center;
+	font-family: SF Pro Text;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+	letter-spacing: -0.2px;
+}
+#Space {
+	position: absolute;
+	width: 201.881px;
+	height: 46.368px;
+	left: 102.95px;
+	top: 0px;
+	overflow: visible;
+}
+#Key_t {
+	fill: rgba(255,255,255,0.302);
+}
+.Key_t {
+	filter: drop-shadow(0px 1px 0px rgba(0, 0, 0, 0.349));
+	position: absolute;
+	overflow: visible;
+	width: 201.881px;
+	height: 47.368px;
+	left: 0px;
+	top: 0px;
+}
+#space {
+	left: 77.7px;
+	top: 11.592px;
+	position: absolute;
+	overflow: visible;
+	width: 49.576px;
+	height: 20.97599983215332px;
+	text-align: center;
+	font-family: SF Pro Text;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+	letter-spacing: -0.2px;
+}
+#n_23 {
+	position: absolute;
+	width: 95.134px;
+	height: 46.368px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Key_uc {
+	fill: rgba(115,115,115,1);
+}
+.Key_uc {
+	filter: drop-shadow(0px 1px 0px rgba(0, 0, 0, 0.349));
+	position: absolute;
+	overflow: visible;
+	width: 95.134px;
+	height: 47.368px;
+	left: 0px;
+	top: 0px;
+}
+#n_23_ud {
+	left: 32.075px;
+	top: 12.696px;
+	position: absolute;
+	overflow: visible;
+	width: 30.808px;
+	height: 20.97599983215332px;
+	text-align: center;
+	font-family: SF Pro Text;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(255,255,255,1);
+	letter-spacing: -0.2px;
+}
+#Third_Row {
+	position: absolute;
+	width: 408px;
+	height: 46.368px;
+	left: 3px;
+	top: 128.704px;
+	overflow: visible;
+}
+#Delete {
+	position: absolute;
+	width: 47px;
+	height: 46px;
+	left: 361px;
+	top: 0.296px;
+	overflow: visible;
+}
+#Key_ug {
+	fill: rgba(115,115,115,1);
+}
+.Key_ug {
+	filter: drop-shadow(0px 1px 0px rgba(0, 0, 0, 0.349));
+	position: absolute;
+	overflow: visible;
+	width: 47px;
+	height: 47px;
+	left: 0px;
+	top: 0px;
+}
+#Grupo_1_uh {
+	position: absolute;
+	width: 25.259px;
+	height: 18.768px;
+	left: 10.941px;
+	top: 13.504px;
+	overflow: visible;
+}
+#Back_ui {
+	fill: rgba(255,255,255,1);
+}
+.Back_ui {
+	overflow: visible;
+	position: absolute;
+	width: 25.259px;
+	height: 18.769px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Combined_Shape_uj {
+	fill: rgba(255,255,255,1);
+}
+.Combined_Shape_uj {
+	overflow: visible;
+	position: absolute;
+	width: 9.072px;
+	height: 9.072px;
+	left: 10.877px;
+	top: 4.823px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#M {
+	position: absolute;
+	width: 34.776px;
+	height: 46.368px;
+	left: 311.088px;
+	top: 0px;
+	overflow: visible;
+}
+#Key_ul {
+	fill: rgba(255,255,255,0.302);
+}
+.Key_ul {
+	filter: drop-shadow(0px 1px 0px rgba(0, 0, 0, 0.349));
+	position: absolute;
+	overflow: visible;
+	width: 34.776px;
+	height: 47.368px;
+	left: 0px;
+	top: 0px;
+}
+#M_um {
+	left: 6.348px;
+	top: 8.004px;
+	position: absolute;
+	overflow: visible;
+	width: 21px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: SF Pro Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#N {
+	position: absolute;
+	width: 34.776px;
+	height: 46.368px;
+	left: 269.688px;
+	top: 0px;
+	overflow: visible;
+}
+#Key_uo {
+	fill: rgba(255,255,255,0.302);
+}
+.Key_uo {
+	filter: drop-shadow(0px 1px 0px rgba(0, 0, 0, 0.349));
+	position: absolute;
+	overflow: visible;
+	width: 34.776px;
+	height: 47.368px;
+	left: 0px;
+	top: 0px;
+}
+#N_up {
+	left: 8.556px;
+	top: 8.004px;
+	position: absolute;
+	overflow: visible;
+	width: 17px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: SF Pro Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(255,255,255,1);
+}
+#B {
+	position: absolute;
+	width: 34.776px;
+	height: 46.368px;
+	left: 228.288px;
+	top: 0px;
+	overflow: visible;
+}
+#Key_ur {
+	fill: rgba(255,255,255,0.302);
+}
+.Key_ur {
+	filter: drop-shadow(0px 1px 0px rgba(0, 0, 0, 0.349));
+	position: absolute;
+	overflow: visible;
+	width: 34.776px;
+	height: 47.368px;
+	left: 0px;
+	top: 0px;
+}
+#B_us {
+	left: 9.936px;
+	top: 8.004px;
+	position: absolute;
+	overflow: visible;
+	width: 15px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: SF Pro Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(255,255,255,1);
+}
+#V {
+	position: absolute;
+	width: 34.776px;
+	height: 46.368px;
+	left: 186.888px;
+	top: 0px;
+	overflow: visible;
+}
+#Key_uu {
+	fill: rgba(255,255,255,0.302);
+}
+.Key_uu {
+	filter: drop-shadow(0px 1px 0px rgba(0, 0, 0, 0.349));
+	position: absolute;
+	overflow: visible;
+	width: 34.776px;
+	height: 47.368px;
+	left: 0px;
+	top: 0px;
+}
+#V_uv {
+	left: 9.66px;
+	top: 8.004px;
+	position: absolute;
+	overflow: visible;
+	width: 15px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: SF Pro Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 23px;
+	color: rgba(255,255,255,1);
+}
+#C {
+	position: absolute;
+	width: 34.776px;
+	height: 46.368px;
+	left: 144.936px;
+	top: 0px;
+	overflow: visible;
+}
+#Key_ux {
+	fill: rgba(255,255,255,0.302);
+}
+.Key_ux {
+	filter: drop-shadow(0px 1px 0px rgba(0, 0, 0, 0.349));
+	position: absolute;
+	overflow: visible;
+	width: 34.776px;
+	height: 47.368px;
+	left: 0px;
+	top: 0px;
+}
+#C_uy {
+	left: 8.557px;
+	top: 8.004px;
+	position: absolute;
+	overflow: visible;
+	width: 17px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: SF Pro Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(255,255,255,1);
+}
+#X {
+	position: absolute;
+	width: 34.776px;
+	height: 46.368px;
+	left: 103.536px;
+	top: 0px;
+	overflow: visible;
+}
+#Key_u {
+	fill: rgba(255,255,255,0.302);
+}
+.Key_u {
+	filter: drop-shadow(0px 1px 0px rgba(0, 0, 0, 0.349));
+	position: absolute;
+	overflow: visible;
+	width: 34.776px;
+	height: 47.368px;
+	left: 0px;
+	top: 0px;
+}
+#X_u {
+	left: 9.384px;
+	top: 8.004px;
+	position: absolute;
+	overflow: visible;
+	width: 15px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: SF Pro Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 23px;
+	color: rgba(255,255,255,1);
+}
+#Z {
+	position: absolute;
+	width: 34.776px;
+	height: 46.368px;
+	left: 62.136px;
+	top: 0px;
+	overflow: visible;
+}
+#Key_va {
+	fill: rgba(255,255,255,0.302);
+}
+.Key_va {
+	filter: drop-shadow(0px 1px 0px rgba(0, 0, 0, 0.349));
+	position: absolute;
+	overflow: visible;
+	width: 34.776px;
+	height: 47.368px;
+	left: 0px;
+	top: 0px;
+}
+#Z_u {
+	left: 9.384px;
+	top: 8.004px;
+	position: absolute;
+	overflow: visible;
+	width: 15px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: SF Pro Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(255,255,255,1);
+}
+#Shift {
+	position: absolute;
+	width: 47px;
+	height: 46px;
+	left: 0px;
+	top: 0.296px;
+	overflow: visible;
+}
+#Key_vb {
+	fill: rgba(255,255,255,0.302);
+}
+.Key_vb {
+	filter: drop-shadow(0px 1px 0px rgba(0, 0, 0, 0.349));
+	position: absolute;
+	overflow: visible;
+	width: 47px;
+	height: 47px;
+	left: 0px;
+	top: 0px;
+}
+#Trazado_4 {
+	fill: rgba(255,255,255,1);
+}
+.Trazado_4 {
+	overflow: visible;
+	position: absolute;
+	width: 19.871px;
+	height: 17.664px;
+	left: 13.561px;
+	top: 14.056px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Second_Row {
+	position: absolute;
+	width: 366.528px;
+	height: 46.368px;
+	left: 23.736px;
+	top: 69.088px;
+	overflow: visible;
+}
+#L {
+	position: absolute;
+	width: 34.776px;
+	height: 46.368px;
+	left: 331.752px;
+	top: 0px;
+	overflow: visible;
+}
+#Key_vc {
+	fill: rgba(255,255,255,0.302);
+}
+.Key_vc {
+	filter: drop-shadow(0px 1px 0px rgba(0, 0, 0, 0.349));
+	position: absolute;
+	overflow: visible;
+	width: 34.776px;
+	height: 47.368px;
+	left: 0px;
+	top: 0px;
+}
+#L_vb {
+	left: 10.487px;
+	top: 8.004px;
+	position: absolute;
+	overflow: visible;
+	width: 13px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: SF Pro Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(255,255,255,1);
+}
+#K {
+	position: absolute;
+	width: 34.776px;
+	height: 46.368px;
+	left: 290.352px;
+	top: 0px;
+	overflow: visible;
+}
+#Key_vd {
+	fill: rgba(255,255,255,0.302);
+}
+.Key_vd {
+	filter: drop-shadow(0px 1px 0px rgba(0, 0, 0, 0.349));
+	position: absolute;
+	overflow: visible;
+	width: 34.776px;
+	height: 47.368px;
+	left: 0px;
+	top: 0px;
+}
+#K_ve {
+	left: 9.937px;
+	top: 8.004px;
+	position: absolute;
+	overflow: visible;
+	width: 15px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: SF Pro Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(255,255,255,1);
+}
+#J {
+	position: absolute;
+	width: 34.776px;
+	height: 46.368px;
+	left: 248.951px;
+	top: 0px;
+	overflow: visible;
+}
+#Key_vg {
+	fill: rgba(255,255,255,0.302);
+}
+.Key_vg {
+	filter: drop-shadow(0px 1px 0px rgba(0, 0, 0, 0.349));
+	position: absolute;
+	overflow: visible;
+	width: 34.776px;
+	height: 47.368px;
+	left: 0px;
+	top: 0px;
+}
+#J_vh {
+	left: 10.213px;
+	top: 8.004px;
+	position: absolute;
+	overflow: visible;
+	width: 13px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: SF Pro Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#H {
+	position: absolute;
+	width: 34.776px;
+	height: 46.368px;
+	left: 207.552px;
+	top: 0px;
+	overflow: visible;
+}
+#Key_vj {
+	fill: rgba(255,255,255,0.302);
+}
+.Key_vj {
+	filter: drop-shadow(0px 1px 0px rgba(0, 0, 0, 0.349));
+	position: absolute;
+	overflow: visible;
+	width: 34.776px;
+	height: 47.368px;
+	left: 0px;
+	top: 0px;
+}
+#H_vk {
+	left: 8.556px;
+	top: 8.004px;
+	position: absolute;
+	overflow: visible;
+	width: 17px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: SF Pro Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(255,255,255,1);
+}
+#G {
+	position: absolute;
+	width: 34.776px;
+	height: 46.368px;
+	left: 166.151px;
+	top: 0px;
+	overflow: visible;
+}
+#Key_vm {
+	fill: rgba(255,255,255,0.302);
+}
+.Key_vm {
+	filter: drop-shadow(0px 1px 0px rgba(0, 0, 0, 0.349));
+	position: absolute;
+	overflow: visible;
+	width: 34.776px;
+	height: 47.368px;
+	left: 0px;
+	top: 0px;
+}
+#G_vn {
+	left: 8.832px;
+	top: 8.004px;
+	position: absolute;
+	overflow: visible;
+	width: 17px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: SF Pro Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(255,255,255,1);
+}
+#F {
+	position: absolute;
+	width: 34.776px;
+	height: 46.368px;
+	left: 124.199px;
+	top: 0px;
+	overflow: visible;
+}
+#Key_vp {
+	fill: rgba(255,255,255,0.302);
+}
+.Key_vp {
+	filter: drop-shadow(0px 1px 0px rgba(0, 0, 0, 0.349));
+	position: absolute;
+	overflow: visible;
+	width: 34.776px;
+	height: 47.368px;
+	left: 0px;
+	top: 0px;
+}
+#F_vq {
+	left: 10.488px;
+	top: 8.004px;
+	position: absolute;
+	overflow: visible;
+	width: 13px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: SF Pro Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(255,255,255,1);
+}
+#D {
+	position: absolute;
+	width: 34.776px;
+	height: 46.368px;
+	left: 82.8px;
+	top: 0px;
+	overflow: visible;
+}
+#Key_vs {
+	fill: rgba(255,255,255,0.302);
+}
+.Key_vs {
+	filter: drop-shadow(0px 1px 0px rgba(0, 0, 0, 0.349));
+	position: absolute;
+	overflow: visible;
+	width: 34.776px;
+	height: 47.368px;
+	left: 0px;
+	top: 0px;
+}
+#D_vt {
+	left: 8.556px;
+	top: 8.004px;
+	position: absolute;
+	overflow: visible;
+	width: 17px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: SF Pro Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#S {
+	position: absolute;
+	width: 34.776px;
+	height: 46.368px;
+	left: 41.399px;
+	top: 0px;
+	overflow: visible;
+}
+#Key_vv {
+	fill: rgba(255,255,255,0.302);
+}
+.Key_vv {
+	filter: drop-shadow(0px 1px 0px rgba(0, 0, 0, 0.349));
+	position: absolute;
+	overflow: visible;
+	width: 34.776px;
+	height: 47.368px;
+	left: 0px;
+	top: 0px;
+}
+#S_vw {
+	left: 9.66px;
+	top: 8.004px;
+	position: absolute;
+	overflow: visible;
+	width: 15px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: SF Pro Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#A {
+	position: absolute;
+	width: 34.776px;
+	height: 46.368px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Key_vy {
+	fill: rgba(255,255,255,0.302);
+}
+.Key_vy {
+	filter: drop-shadow(0px 1px 0px rgba(0, 0, 0, 0.349));
+	position: absolute;
+	overflow: visible;
+	width: 34.776px;
+	height: 47.368px;
+	left: 0px;
+	top: 0px;
+}
+#A_vz {
+	left: 9.66px;
+	top: 8.004px;
+	position: absolute;
+	overflow: visible;
+	width: 15px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: SF Pro Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 23px;
+	color: rgba(255,255,255,1);
+}
+#Top_Row {
+	position: absolute;
+	width: 407.376px;
+	height: 46.368px;
+	left: 3.312px;
+	top: 9.472px;
+	overflow: visible;
+}
+#P {
+	position: absolute;
+	width: 34.776px;
+	height: 46.368px;
+	left: 372.601px;
+	top: 0px;
+	overflow: visible;
+}
+#Key_v {
+	fill: rgba(255,255,255,0.302);
+}
+.Key_v {
+	filter: drop-shadow(0px 1px 0px rgba(0, 0, 0, 0.349));
+	position: absolute;
+	overflow: visible;
+	width: 34.776px;
+	height: 47.368px;
+	left: 0px;
+	top: 0px;
+}
+#P_v {
+	left: 9.66px;
+	top: 8.005px;
+	position: absolute;
+	overflow: visible;
+	width: 15px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: SF Pro Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#O {
+	position: absolute;
+	width: 34.776px;
+	height: 46.368px;
+	left: 331.2px;
+	top: 0px;
+	overflow: visible;
+}
+#Key_wa {
+	fill: rgba(255,255,255,0.302);
+}
+.Key_wa {
+	filter: drop-shadow(0px 1px 0px rgba(0, 0, 0, 0.349));
+	position: absolute;
+	overflow: visible;
+	width: 34.776px;
+	height: 47.368px;
+	left: 0px;
+	top: 0px;
+}
+#O_v {
+	left: 8.557px;
+	top: 8.005px;
+	position: absolute;
+	overflow: visible;
+	width: 17px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: SF Pro Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 23px;
+	color: rgba(255,255,255,1);
+}
+#I {
+	position: absolute;
+	width: 34.776px;
+	height: 46.368px;
+	left: 289.801px;
+	top: 0px;
+	overflow: visible;
+}
+#Key_wb {
+	fill: rgba(255,255,255,0.302);
+}
+.Key_wb {
+	filter: drop-shadow(0px 1px 0px rgba(0, 0, 0, 0.349));
+	position: absolute;
+	overflow: visible;
+	width: 34.776px;
+	height: 47.368px;
+	left: 0px;
+	top: 0px;
+}
+#I_v {
+	left: 13.8px;
+	top: 8.005px;
+	position: absolute;
+	overflow: visible;
+	width: 7px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: SF Pro Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#U {
+	position: absolute;
+	width: 34.776px;
+	height: 46.368px;
+	left: 248.4px;
+	top: 0px;
+	overflow: visible;
+}
+#Key_wc {
+	fill: rgba(255,255,255,0.302);
+}
+.Key_wc {
+	filter: drop-shadow(0px 1px 0px rgba(0, 0, 0, 0.349));
+	position: absolute;
+	overflow: visible;
+	width: 34.776px;
+	height: 47.368px;
+	left: 0px;
+	top: 0px;
+}
+#U_wc {
+	left: 8.28px;
+	top: 8.005px;
+	position: absolute;
+	overflow: visible;
+	width: 17px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: SF Pro Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(255,255,255,1);
+}
+#Y {
+	position: absolute;
+	width: 34.776px;
+	height: 46.368px;
+	left: 207px;
+	top: 0px;
+	overflow: visible;
+}
+#Key_we {
+	fill: rgba(255,255,255,0.302);
+}
+.Key_we {
+	filter: drop-shadow(0px 1px 0px rgba(0, 0, 0, 0.349));
+	position: absolute;
+	overflow: visible;
+	width: 34.776px;
+	height: 47.368px;
+	left: 0px;
+	top: 0px;
+}
+#Y_wf {
+	left: 9.937px;
+	top: 8.005px;
+	position: absolute;
+	overflow: visible;
+	width: 15px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: SF Pro Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(255,255,255,1);
+}
+#T {
+	position: absolute;
+	width: 34.776px;
+	height: 46.368px;
+	left: 165.601px;
+	top: 0px;
+	overflow: visible;
+}
+#Key_wh {
+	fill: rgba(255,255,255,0.302);
+}
+.Key_wh {
+	filter: drop-shadow(0px 1px 0px rgba(0, 0, 0, 0.349));
+	position: absolute;
+	overflow: visible;
+	width: 34.776px;
+	height: 47.368px;
+	left: 0px;
+	top: 0px;
+}
+#T_wi {
+	left: 9.384px;
+	top: 8.005px;
+	position: absolute;
+	overflow: visible;
+	width: 15px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: SF Pro Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#R {
+	position: absolute;
+	width: 34.776px;
+	height: 46.368px;
+	left: 124.2px;
+	top: 0px;
+	overflow: visible;
+}
+#Key_wk {
+	fill: rgba(255,255,255,0.302);
+}
+.Key_wk {
+	filter: drop-shadow(0px 1px 0px rgba(0, 0, 0, 0.349));
+	position: absolute;
+	overflow: visible;
+	width: 34.776px;
+	height: 47.368px;
+	left: 0px;
+	top: 0px;
+}
+#R_wl {
+	left: 9.66px;
+	top: 8.005px;
+	position: absolute;
+	overflow: visible;
+	width: 15px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: SF Pro Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#E {
+	position: absolute;
+	width: 34.776px;
+	height: 46.368px;
+	left: 82.801px;
+	top: 0px;
+	overflow: visible;
+}
+#Key_wn {
+	fill: rgba(255,255,255,0.302);
+}
+.Key_wn {
+	filter: drop-shadow(0px 1px 0px rgba(0, 0, 0, 0.349));
+	position: absolute;
+	overflow: visible;
+	width: 34.776px;
+	height: 47.368px;
+	left: 0px;
+	top: 0px;
+}
+#E_wo {
+	left: 10.764px;
+	top: 8.005px;
+	position: absolute;
+	overflow: visible;
+	width: 13px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: SF Pro Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 23px;
+	color: rgba(255,255,255,1);
+}
+#W {
+	position: absolute;
+	width: 34.776px;
+	height: 46.368px;
+	left: 41.4px;
+	top: 0px;
+	overflow: visible;
+}
+#Key_wq {
+	fill: rgba(255,255,255,0.302);
+}
+.Key_wq {
+	filter: drop-shadow(0px 1px 0px rgba(0, 0, 0, 0.349));
+	position: absolute;
+	overflow: visible;
+	width: 34.776px;
+	height: 47.368px;
+	left: 0px;
+	top: 0px;
+}
+#W_wr {
+	left: 4.968px;
+	top: 8.005px;
+	position: absolute;
+	overflow: visible;
+	width: 25px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: SF Pro Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Q {
+	position: absolute;
+	width: 34.776px;
+	height: 46.368px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Key_wt {
+	fill: rgba(255,255,255,0.302);
+}
+.Key_wt {
+	filter: drop-shadow(0px 1px 0px rgba(0, 0, 0, 0.349));
+	position: absolute;
+	overflow: visible;
+	width: 34.776px;
+	height: 47.368px;
+	left: 0px;
+	top: 0px;
+}
+#Q_wu {
+	left: 8.557px;
+	top: 8.005px;
+	position: absolute;
+	overflow: visible;
+	width: 17px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: SF Pro Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 23px;
+	color: rgba(255,255,255,1);
+}
+#back_wv {
+	fill: rgba(43,36,39,1);
+}
+.back_wv {
+	overflow: visible;
+	position: absolute;
+	width: 17.57px;
+	height: 16.573px;
+	left: 56px;
+	top: 429.427px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#boton_comprobar {
+	position: absolute;
+	width: 160px;
+	height: 32px;
+	left: 198px;
+	top: 422px;
+	overflow: visible;
+	transition: all 0.3s ease-out;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Pago___Codigo_descuento___Comprobando.html;
+	cursor: pointer;
+}
+#boton_soporte_base_wx {
+	fill: rgba(37,25,40,1);
+}
+.boton_soporte_base_wx {
+	filter: drop-shadow(0px 4px 5px rgba(43, 36, 39, 1));
+	position: absolute;
+	overflow: visible;
+	width: 149px;
+	height: 31px;
+	left: 13px;
+	top: 12px;
+}
+#boton_soporte_base_wy {
+	fill: rgba(37,25,40,1);
+}
+.boton_soporte_base_wy {
+	position: absolute;
+	overflow: visible;
+	width: 160px;
+	height: 32px;
+	left: 0px;
+	top: 0px;
+}
+#action_button_wz {
+	left: 38px;
+	top: 7px;
+	position: absolute;
+	overflow: visible;
+	width: 85px;
+	white-space: nowrap;
+	line-height: 19px;
+	margin-top: -2.5px;
+	text-align: center;
+	font-family: Gilroy;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 14px;
+	color: rgba(243,243,243,1);
+	letter-spacing: 0.8px;
+}
+#Input_codigo_w {
+	position: absolute;
+	width: 132.468px;
+	height: 35px;
+	left: 81.65px;
+	top: 313.5px;
+	overflow: visible;
+}
+#base_w {
+	fill: transparent;
+	stroke: rgba(43,36,39,1);
+	stroke-width: 0.4000000059604645px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.base_w {
+	display: none;
+	position: absolute;
+	overflow: visible;
+	width: 288.037px;
+	height: 51.652px;
+	left: -19px;
+	top: -8.044px;
+}
+#Grupo_9786_w {
+	position: absolute;
+	width: 132.468px;
+	height: 35px;
+	left: -0.001px;
+	top: 0px;
+	overflow: visible;
+}
+#texto_predefinido_w {
+	left: 48.468px;
+	top: 6.878px;
+	position: absolute;
+	overflow: visible;
+	width: 85px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Gilroy;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 16px;
+	color: rgba(43,36,39,1);
+	letter-spacing: 0.56px;
+}
+#opcion_4_icon_w {
+	position: absolute;
+	width: 15.232px;
+	height: 11.717px;
+	left: 0.001px;
+	top: 11.52px;
+	overflow: visible;
+}
+#Trazado_1607_w {
+	fill: rgba(43,36,39,1);
+}
+.Trazado_1607_w {
+	overflow: visible;
+	position: absolute;
+	width: 3.294px;
+	height: 11.717px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_1608_w {
+	fill: rgba(43,36,39,1);
+}
+.Trazado_1608_w {
+	overflow: visible;
+	position: absolute;
+	width: 3.294px;
+	height: 11.717px;
+	left: 11.938px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_1609_w {
+	fill: rgba(43,36,39,1);
+}
+.Trazado_1609_w {
+	overflow: visible;
+	position: absolute;
+	width: 1.048px;
+	height: 5.725px;
+	left: 2.265px;
+	top: 2.994px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_1610_w {
+	fill: rgba(43,36,39,1);
+}
+.Trazado_1610_w {
+	overflow: visible;
+	position: absolute;
+	width: 1.048px;
+	height: 5.728px;
+	left: 11.919px;
+	top: 2.994px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_1611_w {
+	fill: rgba(43,36,39,1);
+}
+.Trazado_1611_w {
+	overflow: visible;
+	position: absolute;
+	width: 1.048px;
+	height: 8.12px;
+	left: 9.669px;
+	top: 1.797px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_1612_xa {
+	fill: rgba(43,36,39,1);
+}
+.Trazado_1612_xa {
+	overflow: visible;
+	position: absolute;
+	width: 1.048px;
+	height: 8.12px;
+	left: 4.515px;
+	top: 1.797px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_1613_xb {
+	fill: rgba(43,36,39,1);
+}
+.Trazado_1613_xb {
+	overflow: visible;
+	position: absolute;
+	width: 1.048px;
+	height: 6.922px;
+	left: 7.092px;
+	top: 2.396px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Lnea_302_xc {
+	fill: transparent;
+	stroke: rgba(43,36,39,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Lnea_302_xc {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 35px;
+	left: 31.851px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Enunciado_xd {
+	left: 0px;
+	top: 177px;
+	position: absolute;
+	overflow: visible;
+	width: 415px;
+	height: 34px;
+	line-height: 30px;
+	margin-top: -3px;
+	text-align: center;
+	font-family: Gilroy;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 24px;
+	color: rgba(43,36,39,1);
+}
